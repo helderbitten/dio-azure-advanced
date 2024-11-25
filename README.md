@@ -1,1 +1,1 @@
-# Repositório de Informação para o Curso Microsoft Azure Advanced da DIO
+# Laboratórios do Curso Microsoft Azure Advanced da DIO
