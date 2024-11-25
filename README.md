@@ -6,4 +6,4 @@ Neste laboratório segui as orientações do professor Denilson, criando na prá
 ### Laboratório 2 -> Criando um Pipeline de Deploy de uma Aplicação Utilizando Gitlab, Docker e Kubernetes
 Neste laboratório segui as orientações do professor Denilson, criando na prática duas branches conforme explicado na aula de orientação e seguindo o código fonte no repositório do professor no GitLab: https://gitlab.com/denilsonbonatti/gitlab-cicd-app-base/-/tree/main
 
-### Laboratório 3 -> 
+### Laboratório 3 -> Trabalhando Aplicações Serverless na Azure
