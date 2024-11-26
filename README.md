@@ -7,4 +7,4 @@ Neste laboratório segui as orientações do professor Denilson, criando na prá
 Neste laboratório segui as orientações do professor Denilson, criando na prática duas branches conforme explicado na aula de orientação e seguindo o código fonte no repositório do professor no GitLab: https://gitlab.com/denilsonbonatti/gitlab-cicd-app-base/-/tree/main
 
 ### Laboratório 3 -> Trabalhando Aplicações Serverless na Azure
-Neste laboratório segui as orientações do professor Henrique, replicando os passos apresentados e orientados nas aulas do laboratório, usando como apoio os arquivos publicados pelo professor no GitHub. As aplicações serverless foram criadas com sucesso na prática. O fork do projeto está em https://github.com/helderbitten/dio-live-function
+Neste laboratório segui as orientações do professor Henrique, replicando os passos apresentados e orientados nas aulas do laboratório, usando como apoio os arquivos publicados pelo professor no GitHub. As aplicações serverless foram criadas com sucesso na prática.
